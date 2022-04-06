@@ -10,8 +10,4 @@ The make-bucket script has 2 functions: one will create a bucket with the name y
 
 The remove-bucket script will delete the bucket if the bucket exists, else it will display a "bucket does not exist or you do not have permissions" message.
 
-# Hope this is helpful, thanks!
-
-## Strategy 
-
-Dillinger uses a number of open source projects to work properly:
+Hope this helps!
